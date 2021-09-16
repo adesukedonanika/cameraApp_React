@@ -27,9 +27,28 @@ https://ionicframework.com/jp/docs/intro/cli
 
 
 ## ionic インストール
+<code>
 npm install -g @ionic/cli
+</code>
 
 
 ### アプリビルド　
+<code>
 ionic start cameraStreamer tabs
+
+cd cameraStreamer
+</code>
+
+
+### Ionic + Angular
+AngularプロジェクトでIonic Frameworkを使用する場合
+
+<code>
+npm install @ionic/angular@latest --save
+<code>
+
+逆に、ionicプロジェクトにAnglarを追加する場合
+<code>
+ng add @ionic/angular
+</code>
 
