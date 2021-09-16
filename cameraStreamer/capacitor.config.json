@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cameraStreamer",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

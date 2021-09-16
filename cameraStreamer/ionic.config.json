@@ -1,0 +1,7 @@
+{
+  "name": "cameraStreamer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
